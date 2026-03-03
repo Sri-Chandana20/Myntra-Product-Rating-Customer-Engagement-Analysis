@@ -13,14 +13,15 @@
 
 - This **is important because** optimized recommendations can increase sales and cut down on returns, which helps boost revenue in India's competitive fashion market.
 
-
-**Original Dataset Size:** 14,330 rows (scraped Myntra Dataset).
-
-**Cleaned Dataset Size:** 355 high-quality rated products.
-
-**Key Findings:** Overall average rating 4.1; Ahika leads with 58,569 reviews; Black and Pink dominate volume (40k+ reviews each).
-
 The project demonstrates end-to-end analytics: Data cleaning, querying, visualization, and actionable recommendations.
+
+---
+
+### Business Problem
+
+Online fashion platforms often prioritize high-selling products in their recommendations. However, sales volume does not always reflect customer satisfaction, as factors like discounts, promotions, and brand influence can drive purchases even when ratings and reviews are moderate.
+
+The challenge is to analyze whether product popularity aligns with quality indicators and identify patterns in ratings, pricing, brands, and attributes that influence customer satisfaction.
 
 ---
 
@@ -40,7 +41,7 @@ The project demonstrates end-to-end analytics: Data cleaning, querying, visualiz
 
 ### Data Source & Cleaning
 
-**Source:** [Myntra Fashion Product Dataset](https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset/data) with 11 columns: index, p_id, name, price, color, brand, img, ratingCount, avg_rating, description, p_attributes.
+**Source:** [Myntra Fashion Product Dataset](https://www.kaggle.com/datasets/hiteshsuthar101/myntra-fashion-product-dataset/data) with ~15K rows, and 11 columns: index, p_id, name, price, color, brand, img, ratingCount, avg_rating, description, p_attributes.
 
 **Cleaning Process (Excel):**
 
