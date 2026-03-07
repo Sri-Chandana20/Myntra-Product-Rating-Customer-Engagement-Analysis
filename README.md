@@ -19,10 +19,16 @@ The project demonstrates end-to-end analytics: Data cleaning, querying, visualiz
 
 ### Business Problem
 
-Online fashion platforms often prioritize high-selling products in their recommendations. However, sales volume does not always reflect customer satisfaction, as factors like discounts, promotions, and brand influence can drive purchases even when ratings and reviews are moderate.
+- Online fashion platforms often prioritize high-selling products in their recommendations. However, sales volume does not always reflect customer satisfaction, as factors like discounts, promotions, and brand influence can drive purchases even when ratings and reviews are moderate.
 
-The challenge is to analyze whether product popularity aligns with quality indicators and identify patterns in ratings, pricing, brands, and attributes that influence customer satisfaction.
-
+- The challenge is to identify patterns in ratings, pricing, and brands that influence customer satisfaction to understand
+  
+  - Which brands generate the highest customer engagement?
+    
+  - Which product colors perform best in terms of customer popularity and ratings?
+    
+  - Are there high-rated premium brands that are currently underexposed?
+ 
 ---
 
 ### Table of Contents
@@ -160,6 +166,9 @@ Key measures used for KPIs:
 
 **Purpose:** Measures how much top-rated products are concentrated among the top 3 highest-rated brands.
 
+---
+
+### Business Questions
 
 
 
