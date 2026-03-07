@@ -43,6 +43,8 @@ The project demonstrates end-to-end analytics: Data cleaning, querying, visualiz
     
 - DAX Measures
 
+- Business Questions
+
 ---
 
 ### Data Source & Cleaning
@@ -169,6 +171,33 @@ Key measures used for KPIs:
 ---
 
 ### Business Questions
+
+**1. Which brands generate the highest customer engagement and should be prioritized in recommendations?**
+
+Analysis shows that Ahika has the highest customer engagement with 58,569 reviews and a solid 4.10 average rating. 
+
+Featuring Ahika products more prominently in recommendation sections could increase clicks and drive additional sales.
+
+---
+
+**2. Which product colors perform best in terms of customer popularity and ratings?**
+
+Customer feedback indicates strong demand for Black and Pink products.
+
+- Black: 48,410 reviews, 4.18 rating
+
+- Pink: 44,057 reviews, 4.15 rating
+  
+These colors should be prioritized in recommendation panels to improve engagement and conversion rates.
+
+---
+
+**3. Are there high-rated premium brands that are currently underexposed?**
+
+Several niche brands such as Divena, Fashion Depth, and Ojjasvi have excellent ratings (≥4.5) but relatively low review volumes, despite higher price points (>1500). 
+
+Featuring these brands in “Top Rated” or premium collections could attract high-value customers and improve trust in premium segments.
+
 
 
 
