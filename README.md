@@ -107,7 +107,7 @@ The report has 5 pages with synced slicers (Brand & Colour) for interactivity.
 
 - **Page 5:** About - Overview, objective, data source, tools used, and analyst profile.
 
-[Check out the report here!](https://shorturl.at/Zp97f)
+[Check out the report here!](https://app.powerbi.com/view?r=eyJrIjoiMDQwNDA2YzMtNDE3NC00MzBlLWE5YzgtMmI2MDViYTE2YjIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=1271ee86e09a16929815)
 
 ---
 
