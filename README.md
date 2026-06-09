@@ -2,7 +2,7 @@
   <img src="myntra.png" width="140"/>
 </p>
 
-<h1 align="center"> Myntra Rating Insights Report</h1>
+<h1 align="center"> Myntra Product Rating & Customer Engagement Analysis </h1>
 
 ### Overview
 - E-commerce platforms like Myntra face **challenges** with recommendation quality, where popular items often lack quality, leading to unhappy customers and more returns.
