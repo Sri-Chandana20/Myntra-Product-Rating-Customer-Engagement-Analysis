@@ -67,7 +67,7 @@ The project demonstrates end-to-end analytics: Data cleaning, querying, visualiz
 
 **MySQL:** Database storage (CREATE TABLE with data types like DECIMAL for price/avg_rating, VARCHAR for brand/colour) and querying.
 
-[Check out the queries here!](SQLqueries.sql)
+[Check out the queries here!](SQL_queries.sql)
 
 **Power BI:** Interactive visualization (5 pages with KPIs, donut chart, bar charts, scatter plots, matrix; synced slicers for brand and colour).
 
