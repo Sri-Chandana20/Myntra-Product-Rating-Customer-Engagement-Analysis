@@ -170,7 +170,7 @@ Key measures used for KPIs:
 
 ---
 
-### Business Questions
+### Business Questions Answered
 
 **1. Which brands generate the highest customer engagement and should be prioritized in recommendations?**
 
